@@ -1,0 +1,11 @@
+add 1 2
+set 50
+add 2 3
+set 40
+mul $50 $40
+set 50
+out
+sub $50 10
+set $50
+mul $50 $50
+out

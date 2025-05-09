@@ -1,0 +1,20 @@
+formal spec / syntax
+compiler
+runnable env
+
+// formal spec:
+
+add i1 i2 = i1 + i2
+sub i1 i2 = i1 - i2
+mul i1 i2 = i1 * i2
+div i1 i2 = i1 / i2
+
+set location - sets the value at "location" to the previous result
+out - prints the previous result to output
+
+
+
+
+
+equal i1 i2 - 1 means i1 i2 are equal, 0 means i1 i2 are not equal
+
